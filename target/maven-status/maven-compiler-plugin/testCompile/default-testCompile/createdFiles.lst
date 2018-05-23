@@ -1,0 +1,6 @@
+com\test\qa\SomeUsefulMethods.class
+com\test\qa\TestBase.class
+com\test\qa\pages\SearchPage.class
+com\test\qa\asserts\AssertsMethods.class
+com\test\qa\pages\ResultsSearchPage.class
+com\test\qa\tests\gitHubTest.class

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="15964" started-at="2018-05-23T10:11:14Z" finished-at="2018-05-23T10:11:30Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="15964" started-at="2018-05-23T10:11:14Z" finished-at="2018-05-23T10:11:30Z">
+      <class name="com.test.qa.tests.gitHubTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.qa.tests.gitHubTest@502f1f4c]" test-instance-name="" name="setup" is-config="true" duration-ms="5470" started-at="2018-05-23T13:11:14Z" finished-at="2018-05-23T13:11:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCompareStars()[pri:0, instance:com.test.qa.tests.gitHubTest@502f1f4c]" test-instance-name="" name="testCompareStars" duration-ms="1600" started-at="2018-05-23T13:11:19Z" finished-at="2018-05-23T13:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompareStars -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.qa.tests.gitHubTest@502f1f4c]" test-instance-name="" name="tearDown" is-config="true" duration-ms="866" started-at="2018-05-23T13:11:21Z" finished-at="2018-05-23T13:11:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.qa.tests.gitHubTest@502f1f4c]" test-instance-name="" name="setup" is-config="true" duration-ms="4555" started-at="2018-05-23T13:11:22Z" finished-at="2018-05-23T13:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCompareUserNameAndProgrammingLanguage()[pri:0, instance:com.test.qa.tests.gitHubTest@502f1f4c]" test-instance-name="" name="testCompareUserNameAndProgrammingLanguage" duration-ms="2585" started-at="2018-05-23T13:11:26Z" finished-at="2018-05-23T13:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompareUserNameAndProgrammingLanguage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.qa.tests.gitHubTest@502f1f4c]" test-instance-name="" name="tearDown" is-config="true" duration-ms="846" started-at="2018-05-23T13:11:29Z" finished-at="2018-05-23T13:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.qa.tests.gitHubTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
